@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.fae9c77e.css",
-    "main.js": "/PersonalWebsite/static/js/main.cfabdeab.js",
-    "static/js/787.1ed0c42c.chunk.js": "/PersonalWebsite/static/js/787.1ed0c42c.chunk.js",
-    "static/media/logo.svg": "/PersonalWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/PersonalWebsite/static/css/main.1322db9c.css",
+    "main.js": "/PersonalWebsite/static/js/main.560d1cdb.js",
+    "static/media/me.png": "/PersonalWebsite/static/media/me.8dbb6ae53244ce4c743d.png",
+    "static/media/PriscillaMartinezResume.pdf": "/PersonalWebsite/static/media/PriscillaMartinezResume.42ab5535da2aad5cdfd5.pdf",
     "index.html": "/PersonalWebsite/index.html",
-    "main.fae9c77e.css.map": "/PersonalWebsite/static/css/main.fae9c77e.css.map",
-    "main.cfabdeab.js.map": "/PersonalWebsite/static/js/main.cfabdeab.js.map",
-    "787.1ed0c42c.chunk.js.map": "/PersonalWebsite/static/js/787.1ed0c42c.chunk.js.map"
+    "main.1322db9c.css.map": "/PersonalWebsite/static/css/main.1322db9c.css.map",
+    "main.560d1cdb.js.map": "/PersonalWebsite/static/js/main.560d1cdb.js.map"
   },
   "entrypoints": [
-    "static/css/main.fae9c77e.css",
-    "static/js/main.cfabdeab.js"
+    "static/css/main.1322db9c.css",
+    "static/js/main.560d1cdb.js"
   ]
 }
