@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/PersonalWebsite/static/css/main.1322db9c.css",
-    "main.js": "/PersonalWebsite/static/js/main.560d1cdb.js",
+    "main.css": "/PersonalWebsite/static/css/main.754b2ef3.css",
+    "main.js": "/PersonalWebsite/static/js/main.6c2d32e3.js",
+    "static/media/JobTrackr.png": "/PersonalWebsite/static/media/JobTrackr.64a4f47fc138d9a4be76.png",
+    "static/media/ForeverFriends.png": "/PersonalWebsite/static/media/ForeverFriends.4de92003b0f897bf6a51.png",
+    "static/media/PawBnB.png": "/PersonalWebsite/static/media/PawBnB.91d759dd32648a4e868b.png",
+    "static/media/aboutme.jpg": "/PersonalWebsite/static/media/aboutme.dbeac31b109a98ed0a98.jpg",
     "static/media/me.png": "/PersonalWebsite/static/media/me.8dbb6ae53244ce4c743d.png",
     "static/media/PriscillaMartinezResume.pdf": "/PersonalWebsite/static/media/PriscillaMartinezResume.42ab5535da2aad5cdfd5.pdf",
     "index.html": "/PersonalWebsite/index.html",
-    "main.1322db9c.css.map": "/PersonalWebsite/static/css/main.1322db9c.css.map",
-    "main.560d1cdb.js.map": "/PersonalWebsite/static/js/main.560d1cdb.js.map"
+    "main.754b2ef3.css.map": "/PersonalWebsite/static/css/main.754b2ef3.css.map",
+    "main.6c2d32e3.js.map": "/PersonalWebsite/static/js/main.6c2d32e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.1322db9c.css",
-    "static/js/main.560d1cdb.js"
+    "static/css/main.754b2ef3.css",
+    "static/js/main.6c2d32e3.js"
   ]
 }
